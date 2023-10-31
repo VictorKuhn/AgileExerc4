@@ -33,3 +33,11 @@ O projeto segue a convenção padrão do Maven:
 4. Execute o seguinte comando para rodar os testes:
 ```bash
 mvn clean test
+```
+
+---
+
+Made by:
+
+ - Marcos Jr [See LinkedIn](https://www.linkedin.com/in/marcos-gon%C3%A7alves-bbb17a1b5)
+ - Victor Hugo [See LinkedIn](https://www.linkedin.com/in/victorbkuhn/)
